@@ -1,2 +1,2 @@
-# icon8downloader
+# Icon8Downloader
 Icon 8 downloader
